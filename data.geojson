@@ -50,22 +50,22 @@
     "properties": {
       "id": "mlb-3",
       "team": "Tampa Bay Rays",
-      "name": "Tropicana Field",
+      "name": "George M. Steinbrenner Field",
       "league": "MLB",
-      "neighborhood": "The Edge District",
+      "neighborhood": "Drew Park",
       "city": "St. Petersburg",
       "state": "Florida",
       "country": "United States",
-      "capacity": 25025,
-      "openedYear": 1990,
-      "surfaceType": "turf",
-      "roofType": "dome",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/PXL_20220528_205520913.jpg/2560px-PXL_20220528_205520913.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tropicana_Field"
+      "capacity": 11026,
+      "openedYear": 1996,
+      "surfaceType": "grasss",
+      "roofType": "open",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/MacDill_Aircrew%2C_service_members_kick_off_opening_day_ceremony_for_TB_Rays_%28250328-F-YW699-1029%29.jpg/2560px-MacDill_Aircrew%2C_service_members_kick_off_opening_day_ceremony_for_TB_Rays_%28250328-F-YW699-1029%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_M._Steinbrenner_Field"
     },
     "geometry": {
       "type": "Point",
-      "coordinates": [-82.65248532012289, 27.768548744833936]
+      "coordinates": [-82.50541410271047, 27.980630876566504]
     }
   },
   {
