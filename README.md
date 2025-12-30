@@ -6,6 +6,17 @@
   properties: {
     id: string
     name: string
+    formerNames: [{
+      name: string
+      startYear: number
+      endYear: number
+    }]
+    tenants: [{
+      team: string
+      league: string
+      startYear: number
+      endYear: number
+    }]
     team: string
     league: "NFL" | "NBA" | "MLB" | "NHL"
     neighborhood?: string

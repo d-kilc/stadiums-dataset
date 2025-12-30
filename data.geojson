@@ -4,7 +4,22 @@
     "properties": {
       "id": "mlb-1",
       "team": "New York Yankees",
-      "name": "Yankee Stadium",
+      "name": "Yankee Stadium (2009)",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "New York Yankees",
+          "league": "MLB",
+          "startYear": 2009,
+          "endYear": null
+        },
+        {
+          "team": "New York City FC",
+          "league": "MLS",
+          "startYear": 2015,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Bronx",
       "city": "New York",
@@ -15,7 +30,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Yankee_Stadium_overhead_2010.jpg/2560px-Yankee_Stadium_overhead_2010.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yankee_Stadium"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yankee_Stadium",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -28,6 +44,57 @@
       "id": "mlb-2",
       "team": "Boston Red Sox",
       "name": "Fenway Park",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "Boston Red Sox",
+          "league": "MLB",
+          "startYear": 1912,
+          "endYear": null
+        },
+        {
+          "team": "Boston Braves",
+          "league": "MLB",
+          "startYear": 1914,
+          "endYear": 1915
+        },
+        {
+          "team": "Boston Bulldogs",
+          "league": "AFL",
+          "startYear": 1926,
+          "endYear": 1926
+        },
+        {
+          "team": "Boston Redskins",
+          "league": "NFL",
+          "startYear": 1933,
+          "endYear": 1936
+        },
+        {
+          "team": "Boston Shamrocks",
+          "league": "AFL",
+          "startYear": 1936,
+          "endYear": 1937
+        },
+        {
+          "team": "Boston Yanks",
+          "league": "NFL",
+          "startYear": 1944,
+          "endYear": 1948
+        },
+        {
+          "team": "Boston Patriots",
+          "league": "AFL",
+          "startYear": 1963,
+          "endYear": 1968
+        },
+        {
+          "team": "Boston Beacons",
+          "league": "NASL",
+          "startYear": 1968,
+          "endYear": 1968
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Fenway-Kenmore",
       "city": "Boston",
@@ -38,7 +105,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events.jpg/2560px-131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fenway_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fenway_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -51,6 +119,45 @@
       "id": "mlb-3",
       "team": "Tampa Bay Rays",
       "name": "George M. Steinbrenner Field",
+      "formerNames": [
+        {
+          "name": "Legends Field",
+          "startYear": 1996,
+          "endYear": 2008
+        }
+      ],
+      "tenants": [
+        {
+          "team": "New York Yankees",
+          "league": "MLB - Spring Training",
+          "startYear": 1996,
+          "endYear": null
+        },
+        {
+          "team": "Tampa Tarpons",
+          "league": "MiLB - A",
+          "startYear": 1996,
+          "endYear": null
+        },
+        {
+          "team": "Florida Complex League Yankees",
+          "league": "MiLB - Rookie",
+          "startYear": 1996,
+          "endYear": null
+        },
+        {
+          "team": "FC Tampa Bay",
+          "league": "NASL",
+          "startYear": 2010,
+          "endYear": 2010
+        },
+        {
+          "team": "Tampa Bay Rays",
+          "league": "MLB",
+          "startYear": 2025,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Drew Park",
       "city": "St. Petersburg",
@@ -61,7 +168,8 @@
       "surfaceType": "grasss",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/MacDill_Aircrew%2C_service_members_kick_off_opening_day_ceremony_for_TB_Rays_%28250328-F-YW699-1029%29.jpg/2560px-MacDill_Aircrew%2C_service_members_kick_off_opening_day_ceremony_for_TB_Rays_%28250328-F-YW699-1029%29.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_M._Steinbrenner_Field"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_M._Steinbrenner_Field",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -74,6 +182,15 @@
       "id": "mlb-4",
       "team": "Baltimore Orioles",
       "name": "Oriole Park at Camden Yards",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "Baltimore Orioles",
+          "league": "MLB",
+          "startYear": 1992,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Camden Yards",
       "city": "Baltimore",
@@ -84,7 +201,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Camden_Yards.jpg/2560px-Camden_Yards.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oriole_Park_at_Camden_Yards"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oriole_Park_at_Camden_Yards",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -97,6 +215,39 @@
       "id": "mlb-5",
       "team": "Toronto Blue Jays",
       "name": "Rogers Centre",
+      "formerNames": [
+        {
+          "name": "SkyDome",
+          "startYear": 1989,
+          "endYear": 2005
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Toronto Blue Jays",
+          "league": "MLB",
+          "startYear": 1989,
+          "endYear": 2019
+        },
+        {
+          "team": "Toronto Blue Jays",
+          "league": "MLB",
+          "startYear": 2021,
+          "endYear": null
+        },
+        {
+          "team": "Toronto Argonauts",
+          "league": "CFL",
+          "startYear": 1989,
+          "endYear": 2015
+        },
+        {
+          "team": "Toronto Raptors",
+          "league": "NBA",
+          "startYear": 1995,
+          "endYear": 1999
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Entertainment District",
       "city": "Toronto",
@@ -107,7 +258,8 @@
       "surfaceType": "turf",
       "roofType": "dome",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Rogers_Centre_%28500_Level%29_-_Toronto%2C_ON.jpg/2560px-Rogers_Centre_%28500_Level%29_-_Toronto%2C_ON.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rogers_Centre"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rogers_Centre",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -120,6 +272,21 @@
       "id": "mlb-6",
       "team": "Cleveland Guardians",
       "name": "Progressive Field",
+      "formerNames": [
+        {
+          "name": "Jacobs Field",
+          "startYear": 1994,
+          "endYear": 2007
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Cleveland Guardians",
+          "league": "MLB",
+          "startYear": 1994,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Downtown",
       "city": "Cleveland",
@@ -130,7 +297,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Cleveland_Guardians_vs._New_York_Yankees_on_Oct_17_2024_%2854102149292%29.jpg/2560px-Cleveland_Guardians_vs._New_York_Yankees_on_Oct_17_2024_%2854102149292%29.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Progressive_Field"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Progressive_Field",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -143,6 +311,31 @@
       "id": "mlb-7",
       "team": "Chicago White Sox",
       "name": "Rate Field",
+      "formerNames": [
+        {
+          "name": "Comiskey Park II",
+          "startYear": 1991,
+          "endYear": 2003
+        },
+        {
+          "name": "U.S. Cellular Field",
+          "startYear": 2003,
+          "endYear": 2016
+        },
+        {
+          "name": "Guaranteed Rate Field",
+          "startYear": 2016,
+          "endYear": 2024
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Chicago White Sox",
+          "league": "MLB",
+          "startYear": 1991,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Bridgeport",
       "city": "Chicago",
@@ -153,7 +346,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chicago%2C_Illinois%2C_U.S._%282023%29_-_062.jpg/2560px-Chicago%2C_Illinois%2C_U.S._%282023%29_-_062.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rate_Field"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rate_Field",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -166,6 +360,21 @@
       "id": "mlb-8",
       "team": "Kansas City Royals",
       "name": "Kauffmann Stadium",
+      "formerNames": [
+        {
+          "name": "Royals Stadium",
+          "startYear": 1973,
+          "endYear": 1993
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Kansas City Royals",
+          "league": "MLB",
+          "startYear": 1973,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "city": "Kansas City",
       "state": "Missouri",
@@ -175,7 +384,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Kauffman2017.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kauffman_Stadium"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kauffman_Stadium",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -188,6 +398,21 @@
       "id": "mlb-9",
       "team": "Minnesota Twins",
       "name": "Target Field",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "Minnesota Twins",
+          "league": "MLB",
+          "startYear": 2010,
+          "endYear": null
+        },
+        {
+          "team": "Minnesota Golden Gophers",
+          "league": "NCAA Football",
+          "startYear": 2011,
+          "endYear": 2011
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Historic Warehouse District",
       "city": "Minneapolis",
@@ -198,7 +423,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Target_Field_Aerial.jpg/2560px-Target_Field_Aerial.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Target_Field"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Target_Field",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -211,6 +437,15 @@
       "id": "mlb-10",
       "team": "Detroit Tigers",
       "name": "Comerica Park",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "Detroit Tigers",
+          "league": "MLB",
+          "startYear": 2000,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Detroit",
       "city": "Michigan",
@@ -221,7 +456,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Detroit_Tigers_opening_game_at_Comerica_Park%2C_2007.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Comerica_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Comerica_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -234,6 +470,68 @@
       "id": "mlb-11",
       "team": "Los Angeles Angels",
       "name": "Angel Stadium",
+      "formerNames": [
+        {
+          "name": "Anaheim Stadium",
+          "startYear": 1966,
+          "endYear": 1997
+        },
+        {
+          "name": "Edison International Field of Anaheim",
+          "startYear": 1998,
+          "endYear": 2003
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Los Angeles Angels",
+          "league": "MLB",
+          "startYear": 1966,
+          "endYear": null
+        },
+        {
+          "team": "Orange County Ramblers",
+          "league": "Continental Football League",
+          "startYear": 1967,
+          "endYear": 1968
+        },
+        {
+          "team": "Cal State Fullerton Titans",
+          "league": "NCAA Football",
+          "startYear": 1970,
+          "endYear": 1971
+        },
+        {
+          "team": "Cal State Fullerton Titans",
+          "league": "NCAA Football",
+          "startYear": 1983,
+          "endYear": 1983
+        },
+        {
+          "team": "Southern California Sun",
+          "league": "World Football League",
+          "startYear": 1974,
+          "endYear": 1975
+        },
+        {
+          "team": "Long Beach State 49ers",
+          "league": "NCAA Football",
+          "startYear": 1977,
+          "endYear": 1982
+        },
+        {
+          "team": "California Surf",
+          "league": "NASL",
+          "startYear": 1980,
+          "endYear": 1994
+        },
+        {
+          "team": "Los Angeles Rams",
+          "league": "NFL",
+          "startYear": 1984,
+          "endYear": 1994
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Platinum Triangle",
       "city": "Anaheim",
@@ -244,7 +542,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Angelstadiummarch2019.jpg/2560px-Angelstadiummarch2019.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angel_Stadium"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angel_Stadium",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -257,6 +556,31 @@
       "id": "mlb-12",
       "team": "Houston Astros",
       "name": "Daikin Park",
+      "formerNames": [
+        {
+          "name": "Enron Field",
+          "startYear": 2000,
+          "endYear": 2002
+        },
+        {
+          "name": "Astros Field",
+          "startYear": 2002,
+          "endYear": 2002
+        },
+        {
+          "name": "Minute Maid Park",
+          "startYear": 2002,
+          "endYear": 2025
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Houston Astros",
+          "league": "MLB",
+          "startYear": 2000,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Downtown",
       "city": "Houston",
@@ -267,7 +591,8 @@
       "surfaceType": "grass",
       "roofType": "retractable",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Houston%2C_Texas_%282024%29_-_09.jpg/2560px-Houston%2C_Texas_%282024%29_-_09.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daikin_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daikin_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -280,6 +605,33 @@
       "id": "mlb-13",
       "team": "Athletics",
       "name": "Sutter Health Park",
+      "formerNames": [
+        {
+          "name": "Raley Field",
+          "startYear": 2000,
+          "endYear": 2019
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Athletics",
+          "league": "MLB",
+          "startYear": 2025,
+          "endYear": null
+        },
+        {
+          "team": "Sacramento Mountain Lions",
+          "league": "United Football League",
+          "startYear": 2012,
+          "endYear": 2012
+        },
+        {
+          "team": "Sacramento River Cats",
+          "league": "MiLB - AAA",
+          "startYear": 2000,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "city": "West Sacramento",
       "state": "California",
@@ -289,7 +641,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sutter_Health_Park_aerial_view_2023_%28Quintin_Soloviev%29.jpg/2560px-Sutter_Health_Park_aerial_view_2023_%28Quintin_Soloviev%29.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sutter_Health_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sutter_Health_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -302,6 +655,21 @@
       "id": "mlb-14",
       "team": "Seattle Mariners",
       "name": "T-Mobile Park",
+      "formerNames": [
+        {
+          "name": "Safeco Field",
+          "startYear": 1999,
+          "endYear": 2018
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Seattle Mariners",
+          "league": "MLB",
+          "startYear": 1999,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "SoDo",
       "city": "Seattle",
@@ -312,7 +680,8 @@
       "surfaceType": "grass",
       "roofType": "retractable",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SafecoFieldTop.jpg/2560px-SafecoFieldTop.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/T-Mobile_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/T-Mobile_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -325,8 +694,16 @@
       "id": "mlb-15",
       "team": "Texas Rangers",
       "name": "Globe Life Field",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "Texas Rangers",
+          "league": "MLB",
+          "startYear": 2020,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
-      "neighborhood": "Bronx",
       "city": "Arlington",
       "state": "Texas",
       "country": "United States",
@@ -335,7 +712,8 @@
       "surfaceType": "turf",
       "roofType": "retractable",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/GlobeLifeField2021.jpg/2560px-GlobeLifeField2021.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Globe_Life_Field"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Globe_Life_Field",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -348,6 +726,21 @@
       "id": "mlb-16",
       "team": "New York Mets",
       "name": "Citi Field",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "New York Mets",
+          "league": "MLB",
+          "startYear": 2019,
+          "endYear": null
+        },
+        {
+          "team": "New York City FC",
+          "league": "MLS",
+          "startYear": 2020,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Queens",
       "city": "New York",
@@ -358,7 +751,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/New_York_City_FC_at_Citi_Field.jpg/2560px-New_York_City_FC_at_Citi_Field.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Citi_Field"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Citi_Field",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -371,6 +765,21 @@
       "id": "mlb-17",
       "team": "Atlanta Braves",
       "name": "Truist Park",
+      "formerNames": [
+        {
+          "name": "SunTrust Park",
+          "startYear": 2017,
+          "endYear": 2020
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Atlanta Braves",
+          "league": "MLB",
+          "startYear": 2017,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "city": "Cumberland",
       "state": "Georgia",
@@ -380,7 +789,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Truist_Park_2025.jpg/2560px-Truist_Park_2025.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Truist_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Truist_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -392,7 +802,16 @@
     "properties": {
       "id": "mlb-18",
       "team": "Philadelphia Phillies",
+      "formerNames": [],
       "name": "Citizens Bank Park",
+      "tenants": [
+        {
+          "team": "Philadelphia Phillies",
+          "league": "MLB",
+          "startYear": 2004,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "South Philadelphia",
       "city": "Philadelphia",
@@ -403,7 +822,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Citizens_Bank_Park_2021.jpg/2560px-Citizens_Bank_Park_2021.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Citizens_Bank_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Citizens_Bank_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -415,7 +835,22 @@
     "properties": {
       "id": "mlb-19",
       "team": "Miami Marlins",
-      "name": "Loan Depot Park",
+      "name": "LoanDepot Park",
+      "formerNames": [
+        {
+          "name": "Marlins Park",
+          "startYear": 2012,
+          "endYear": 2020
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Miami Marlins",
+          "league": "MLB",
+          "startYear": 2012,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Little Havana",
       "city": "Miami",
@@ -426,7 +861,8 @@
       "surfaceType": "turf",
       "roofType": "retractable",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/LOAN_DEPOT_PARK.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/LoanDepot_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/LoanDepot_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -439,6 +875,15 @@
       "id": "mlb-20",
       "team": "Washington Nationals",
       "name": "Nationals Park",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "Washington Nationals",
+          "league": "MLB",
+          "startYear": 2008,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Navy Yard",
       "city": "Washington",
@@ -449,7 +894,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Nationals_Park_8.16.19_-_7.jpg/2560px-Nationals_Park_8.16.19_-_7.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nationals_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nationals_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -462,6 +908,15 @@
       "id": "mlb-21",
       "team": "Cincinnati Reds",
       "name": "Great American Ball Park",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "Cincinnati Reds",
+          "league": "MLB",
+          "startYear": 2003,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Downtown",
       "city": "Cincinnati",
@@ -472,7 +927,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/10Cincinnati_2015_%282%29.jpg/2560px-10Cincinnati_2015_%282%29.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_American_Ball_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_American_Ball_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -485,6 +941,15 @@
       "id": "mlb-22",
       "team": "St. Louis Cardinals",
       "name": "Busch Stadium",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "St. Louis Cardinals",
+          "league": "MLB",
+          "startYear": 2006,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Ballpark Village",
       "city": "St. Louis",
@@ -495,7 +960,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Busch_Stadium_2022.jpg/2560px-Busch_Stadium_2022.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Busch_Stadium"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Busch_Stadium",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -508,6 +974,68 @@
       "id": "mlb-23",
       "team": "Chicago Cubs",
       "name": "Wrigley Field",
+      "formerNames": [
+        {
+          "name": "Weeghman Park",
+          "startYear": 1914,
+          "endYear": 1920
+        },
+        {
+          "name": "Cubs Park",
+          "startYear": 1920,
+          "endYear": 1926
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Chicago Whales",
+          "league": "Federal League",
+          "startYear": 1914,
+          "endYear": 1915
+        },
+        {
+          "team": "Chicago Cubs",
+          "league": "MLB",
+          "startYear": 1916,
+          "endYear": null
+        },
+        {
+          "team": "Chicago Tigers",
+          "league": "NFL",
+          "startYear": 1920,
+          "endYear": 1920
+        },
+        {
+          "team": "Hammond Pros",
+          "league": "American Professional Football Association",
+          "startYear": 1920,
+          "endYear": 1926
+        },
+        {
+          "team": "Chicago Bears",
+          "league": "NFL",
+          "startYear": 1921,
+          "endYear": 1970
+        },
+        {
+          "team": "Chicago Cardinals",
+          "league": "NFL",
+          "startYear": 1931,
+          "endYear": 1939
+        },
+        {
+          "team": "Chicago Sting",
+          "league": "NASL",
+          "startYear": 1977,
+          "endYear": 1982
+        },
+        {
+          "team": "Chicago Sting",
+          "league": "NASL",
+          "startYear": 1984,
+          "endYear": 1984
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Lakeview",
       "city": "Chicago",
@@ -518,7 +1046,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wrigley_Field_in_line_with_sign.jpg/2560px-Wrigley_Field_in_line_with_sign.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wrigley_Field"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wrigley_Field",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -531,6 +1060,15 @@
       "id": "mlb-24",
       "team": "Pittsburgh Pirates",
       "name": "PNC Park",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "Pittsburgh Pirates",
+          "league": "MLB",
+          "startYear": 2001,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "North Shore",
       "city": "Pittsburgh",
@@ -541,7 +1079,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pittsburgh_Pirates_park_%28Unsplash%29.jpg/2560px-Pittsburgh_Pirates_park_%28Unsplash%29.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/PNC_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/PNC_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -554,6 +1093,21 @@
       "id": "mlb-25",
       "team": "Milwaukee Brewers",
       "name": "American Family Field",
+      "formerNames": [
+        {
+          "name": "Miller Park",
+          "startYear": 2001,
+          "endYear": 2020
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Milwaukee Brewers",
+          "league": "MLB",
+          "startYear": 2001,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Menomonee Valley",
       "city": "Milwaukee",
@@ -564,7 +1118,8 @@
       "surfaceType": "grass",
       "roofType": "retractable",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/MillerPark2.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Family_Field"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Family_Field",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -577,6 +1132,21 @@
       "id": "mlb-26",
       "team": "Los Angeles Dodgers",
       "name": "Dodger Stadium",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "Los Angeles Dodgers",
+          "league": "MLB",
+          "startYear": 1962,
+          "endYear": null
+        },
+        {
+          "team": "Los Angeles Angels",
+          "league": "MLB",
+          "startYear": 1962,
+          "endYear": 1965
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Elysian Park",
       "city": "Los Angeles",
@@ -587,7 +1157,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dodger_Stadium_and_Chavez_Ravine_far_view%2C_Chicago_Cubs_at_Los_Angeles_Dodgers%2C_%28April_12%2C_2025%29.jpg/2560px-Dodger_Stadium_and_Chavez_Ravine_far_view%2C_Chicago_Cubs_at_Los_Angeles_Dodgers%2C_%28April_12%2C_2025%29.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodger_Stadium"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dodger_Stadium",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -600,6 +1171,21 @@
       "id": "mlb-27",
       "team": "Arizona Diamondbacks",
       "name": "Chase Field",
+      "formerNames": [
+        {
+          "name": "Bank One Ballpark",
+          "startYear": 1998,
+          "endYear": 2005
+        }
+      ],
+      "tenants": [
+        {
+          "team": "Arizona Diamondbacks",
+          "league": "MLB",
+          "startYear": 1996,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Downtown",
       "city": "Phoenix",
@@ -610,7 +1196,8 @@
       "surfaceType": "turf",
       "roofType": "retractable",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Reserve_A-10_Warthogs_Flyover_2023_World_Series_%288099146%29.jpg/2560px-Reserve_A-10_Warthogs_Flyover_2023_World_Series_%288099146%29.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chase_Field"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chase_Field",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -623,6 +1210,15 @@
       "id": "mlb-28",
       "team": "San Diego Padres",
       "name": "Petco Park",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "San Diego Padres",
+          "league": "MLB",
+          "startYear": 2004,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Gaslamp Quarter",
       "city": "San Diego",
@@ -633,7 +1229,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Petco_Park_Padres_Game.jpg/2560px-Petco_Park_Padres_Game.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petco_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petco_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -646,6 +1243,15 @@
       "id": "mlb-29",
       "team": "Colorado Rockies",
       "name": "Coors Field",
+      "formerNames": [],
+      "tenants": [
+        {
+          "team": "Colorado Rockies",
+          "league": "MLB",
+          "startYear": 1995,
+          "endYear": null
+        }
+      ],
       "league": "MLB",
       "neighborhood": "Lower Downtown",
       "city": "Denver",
@@ -656,7 +1262,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Coors_Field_July_2015.jpg/2560px-Coors_Field_July_2015.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coors_Field"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coors_Field",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
@@ -669,6 +1276,49 @@
       "id": "mlb-30",
       "team": "San Francisco Giants",
       "name": "Oracle Park",
+      "formerNames": [
+        {
+          "name": "Pacific Bell Park",
+          "startYear": 2000,
+          "endYear": 2003
+        },
+        {
+          "name": "SBC Park",
+          "startYear": 2004,
+          "endYear": 2005
+        },
+        {
+          "name": "AT&T Park",
+          "startYear": 2006,
+          "endYear": 2018
+        }
+      ],
+      "tenants": [
+        {
+          "team": "San Francisco Giants",
+          "league": "MLB",
+          "startYear": 2000,
+          "endYear": null
+        },
+        {
+          "team": "San Francisco Demons",
+          "league": "XFL",
+          "startYear": 2001,
+          "endYear": 2001
+        },
+        {
+          "team": "California Redwoods",
+          "league": "United Football League",
+          "startYear": 2009,
+          "endYear": 2009
+        },
+        {
+          "team": "California Golden Bears",
+          "league": "NCAA Football",
+          "startYear": 2011,
+          "endYear": 2011
+        }
+      ],
       "league": "MLB",
       "neighborhood": "South Beach",
       "city": "San Francisco",
@@ -679,7 +1329,8 @@
       "surfaceType": "grass",
       "roofType": "open",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oracle_Park_2021.jpg/2560px-Oracle_Park_2021.jpg",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oracle_Park"
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oracle_Park",
+      "era": "current"
     },
     "geometry": {
       "type": "Point",
