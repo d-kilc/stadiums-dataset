@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "baseball-1",
+    "name": "New York Yankees",
+    "foundedYear": 1903,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "New York Highlanders",
+        "startYear": 1903,
+        "endYear": 1912
+      },
+      {
+        "name": "New York Yankees",
+        "startYear": 1913,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1903,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "mlbm-2",
+    "name": "Boston Red Sox",
+    "foundedYear": 1901,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Boston Americans",
+        "startYear": 1901,
+        "endYear": 1907
+      },
+      {
+        "name": "Boston Red Sox",
+        "startYear": 1908,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1901,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-3",
+    "name": "Baltimore Orioles",
+    "foundedYear": 1894,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Milwaukee Brewers",
+        "startYear": 1894,
+        "endYear": 1901
+      },
+      {
+        "name": "St. Louis Browns",
+        "startYear": 1902,
+        "endYear": 1953
+      },
+      {
+        "name": "Baltimore Orioles",
+        "startYear": 1954,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1901,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-4",
+    "name": "Tampa Bay Rays",
+    "foundedYear": 1998,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Tampa Bay Devil Rays",
+        "startYear": 1998,
+        "endYear": 2007
+      },
+      {
+        "name": "Tampa Bay Rays",
+        "startYear": 2008,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1998,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-5",
+    "name": "Toronto Blue Jays",
+    "foundedYear": 1977,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Toronto Blue Jays",
+        "startYear": 1977,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "startYear": 1977,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-6",
+    "name": "Cleveland Guardians",
+    "foundedYear": 1896,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Columbus Buckeyes",
+        "startYear": 1896,
+        "endYear": 1899
+      },
+      {
+        "name": "Grand Rapids Prodigals",
+        "startYear": 1899,
+        "endYear": 1899
+      },
+      {
+        "name": "Cleveland Lakeshores",
+        "startYear": 1900,
+        "endYear": 1900
+      },
+      {
+        "name": "Cleveland Bluebirds",
+        "startYear": 1901,
+        "endYear": 1901
+      },
+      {
+        "name": "Cleveland Broncos",
+        "startYear": 1902,
+        "endYear": 1902
+      },
+      {
+        "name": "Cleveland Naps",
+        "startYear": 1903,
+        "endYear": 1914
+      },
+      {
+        "name": "Cleveland Indians",
+        "startYear": 1915,
+        "endYear": 2021
+      },
+      {
+        "name": "Cleveland Guardians",
+        "startYear": 2022,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Western League",
+        "id": "WL",
+        "startYear": 1896,
+        "endYear": 1900
+      },
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1901,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-7",
+    "name": "Chicago White Sox",
+    "foundedYear": 1894,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Sioux City Cornhuskers",
+        "startYear": 1894,
+        "endYear": 1894
+      },
+      {
+        "name": "St. Paul Saints",
+        "startYear": 1895,
+        "endYear": 1899
+      },
+      {
+        "name": "Chicago White Stockings",
+        "startYear": 1900,
+        "endYear": 1903
+      },
+      {
+        "name": "Chicago White Sox",
+        "startYear": 1904,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Western League",
+        "id": "WL",
+        "startYear": 1894,
+        "endYear": 1900
+      },
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1901,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-8",
+    "name": "Kansas City Royals",
+    "foundedYear": 1969,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Kansas City Royals",
+        "startYear": 1969,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1969,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-9",
+    "name": "Detroit Tigers",
+    "foundedYear": 1894,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Detroit Tigers",
+        "startYear": 1894,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Western League",
+        "id": "WL",
+        "startYear": 1894,
+        "endYear": 1900
+      },
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1901,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-10",
+    "name": "Minnesota Twins",
+    "foundedYear": 1894,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Washington Senators",
+        "startYear": 1901,
+        "endYear": 1904
+      },
+      {
+        "name": "Washington Nationals",
+        "startYear": 1905,
+        "endYear": 1955
+      },
+      {
+        "name": "Washington Senators",
+        "startYear": 1956,
+        "endYear": 1960
+      },
+      {
+        "name": "Minnesota Twins",
+        "startYear": 1961,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1901,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-11",
+    "name": "Texas Rangers",
+    "foundedYear": 1961,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Washington Senators",
+        "startYear": 1961,
+        "endYear": 1971
+      },
+      {
+        "name": "Texas Rangers",
+        "startYear": 1972,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1961,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-12",
+    "name": "Houston Astros",
+    "foundedYear": 1962,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Houston Colt .45s",
+        "startYear": 1962,
+        "endYear": 1964
+      },
+      {
+        "name": "Houston Astros",
+        "startYear": 1965,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1962,
+        "endYear": 2012
+      },
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 2013,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-13",
+    "name": "Los Angeles Angels",
+    "foundedYear": 1961,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Los Angeles Angels",
+        "startYear": 1961,
+        "endYear": 1965
+      },
+      {
+        "name": "California Angels",
+        "startYear": 1965,
+        "endYear": 1996
+      },
+      {
+        "name": "Anaheim Angels",
+        "startYear": 1997,
+        "endYear": 2004
+      },
+      {
+        "name": "Los Angeles Angels of Anaheim",
+        "startYear": 2005,
+        "endYear": 2015
+      },
+      {
+        "name": "Los Angeles Angels",
+        "startYear": 2016,
+        "endYear": 2025
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1961,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-14",
+    "name": "Seattle Mariners",
+    "foundedYear": 1977,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Seattle Mariners",
+        "startYear": 1977,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1977,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-15",
+    "name": "Athletics",
+    "foundedYear": 1901,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Philadelphia Athletics",
+        "startYear": 1901,
+        "endYear": 1954
+      },
+      {
+        "name": "Kansas City Athletics",
+        "startYear": 1955,
+        "endYear": 1967
+      },
+      {
+        "name": "Oakland Athletics",
+        "startYear": 1968,
+        "endYear": 2024
+      },
+      {
+        "name": "Athletics",
+        "startYear": 2025,
+        "endYear": 2027
+      },
+      {
+        "name": "Las Vegas Athletics",
+        "startYear": 2028,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "id": "AL",
+        "startYear": 1901,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-16",
+    "name": "New York Mets",
+    "foundedYear": 1962,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "New York Mets",
+        "startYear": 1962,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1962,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-17",
+    "name": "Philadelphia Phillies",
+    "foundedYear": 1883,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Philadelphia Phillies",
+        "startYear": 1883,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National League",
+        "startYear": 1883,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-18",
+    "name": "Miami Marlins",
+    "foundedYear": 1993,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Florida Marlins",
+        "startYear": 1993,
+        "endYear": 2011
+      },
+      {
+        "name": "Miami Marlins",
+        "startYear": 2012,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1993,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-19",
+    "name": "Washington Nationals",
+    "foundedYear": 1969,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Montreal Expos",
+        "startYear": 1969,
+        "endYear": 2004
+      },
+      {
+        "name": "Washington Nationals",
+        "startYear": 2005,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1969,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-20",
+    "name": "Atlanta Braves",
+    "foundedYear": 1871,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Boston Red Stockings",
+        "startYear": 1871,
+        "endYear": 1875
+      },
+      {
+        "name": "Boston Red Caps",
+        "startYear": 1876,
+        "endYear": 1882
+      },
+      {
+        "name": "Boston Beaneaters",
+        "startYear": 1883,
+        "endYear": 1906
+      },
+      {
+        "name": "Boston Doves",
+        "startYear": 1907,
+        "endYear": 1910
+      },
+      {
+        "name": "Boston Rustlers",
+        "startYear": 1911,
+        "endYear": 1911
+      },
+      {
+        "name": "Boston Braves",
+        "startYear": 1912,
+        "endYear": 1935
+      },
+      {
+        "name": "Boston Bees",
+        "startYear": 1936,
+        "endYear": 1940
+      },
+      {
+        "name": "Boston Braves",
+        "startYear": 1941,
+        "endYear": 1952
+      },
+      {
+        "name": "Milwaukee Braves",
+        "startYear": 1953,
+        "endYear": 1965
+      },
+      {
+        "name": "Atlanta Braves",
+        "startYear": 1966,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National Association",
+        "id": "NA",
+        "startYear": 1871,
+        "endYear": 1875
+      },
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1876,
+        "endYear": null
+      }
+    ] 
+  },
+  {
+    "id": "baseball-21",
+    "name": "Pittsburgh Pirates",
+    "foundedYear": 1882,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Allegheny",
+        "startYear": 1882,
+        "endYear": 1886
+      },
+      {
+        "name": "Pittsburgh Alleghenys",
+        "startYear": 1887,
+        "endYear": 1891
+      },
+      {
+        "name": "Pittsburgh Pirates",
+        "startYear": 1892,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American Association",
+        "id": "AA",
+        "startYear": 1882,
+        "endYear": 1886
+      },
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1887,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-22",
+    "name": "Chicago Cubs",
+    "foundedYear": 1870,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Chicago White Stockings",
+        "startYear": 1870,
+        "endYear": 1889
+      },
+      {
+        "name": "Chicago Colts",
+        "startYear": 1890,
+        "endYear": 1897
+      },
+      {
+        "name": "Chicago Orphans",
+        "startYear": 1898,
+        "endYear": 1902
+      },
+      {
+        "name": "Chicago Cubs",
+        "startYear": 1903,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National Association",
+        "id": "NA",
+        "startYear": 1870,
+        "endYear": 1875
+      },
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1876,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-23",
+    "name": "Milwaukee Brewers",
+    "foundedYear": 1969,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Seattle Pilots",
+        "startYear": 1969,
+        "endYear": 1969
+      },{
+        "name": "Milwaukee Brewers",
+        "startYear": 1970,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American League",
+        "startYear": 1969,
+        "endYear": 1997
+      },
+      {
+        "name": "National League",
+        "startYear": 1998,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-24",
+    "name": "St. Louis Cardinals",
+    "foundedYear": 1882,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "St. Louis Brown Stockings",
+        "startYear": 1882,
+        "endYear": 1882
+      },
+      {
+        "name": "St. Louis Browns",
+        "startYear": 1883,
+        "endYear": 1898
+      },
+      {
+        "name": "St. Louis Perfectos",
+        "startYear": 1899,
+        "endYear": 1899
+      },
+      {
+        "name": "St. Louis Cardinals",
+        "startYear": 1900,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "American Association",
+        "id": "AA",
+        "startYear": 1882,
+        "endYear": 1891
+      },
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1892,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-25",
+    "name": "Cincinnati Reds",
+    "foundedYear": 1876,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Cincinanti Reds",
+        "startYear": 1876,
+        "endYear": 1879
+      },
+      {
+        "name": "Cincinnati Red Stockings",
+        "startYear": 1881,
+        "endYear": 1889
+      },
+      {
+        "name": "Cincinnati Reds",
+        "startYear": 1890,
+        "endYear": 1952
+      },
+      {
+        "name": "Cincinnati Redlegs",
+        "startYear": 1953,
+        "endYear": 1958
+      },
+      {
+        "name": "Cincinnati Reds",
+        "startYear": 1959,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1876,
+        "endYear": 1879
+      },
+      {
+        "name": "American Association",
+        "id": "AA",
+        "startYear": 1881,
+        "endYear": 1891
+      },
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1890,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-26",
+    "name": "Colorado Rockies",
+    "foundedYear": 1993,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Colorado Rockies",
+        "startYear": 1993,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1993,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-27",
+    "name": "San Francisco Giants",
+    "foundedYear": 1883,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "New York Gothams",
+        "startYear": 1883,
+        "endYear": 1884
+      },
+      {
+        "name": "New York Giants",
+        "startYear": 1885,
+        "endYear": 1957
+      },
+      {
+        "name": "San Francisco Giants",
+        "startYear": 1958,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1883,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-28",
+    "name": "Los Angeles Dodgers",
+    "foundedYear": 1883,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Brooklyn Grays",
+        "startYear": 1883,
+        "endYear": 1883
+      },
+      {
+        "name": "Brooklyn Atlantics",
+        "startYear": 1884,
+        "endYear": 1884
+      },
+      {
+        "name": "Brooklyn Grays",
+        "startYear": 1885,
+        "endYear": 1887
+      },
+      {
+        "name": "Brooklyn Bridegrooms",
+        "startYear": 1888,
+        "endYear": 1890
+      },
+      {
+        "name": "Brooklyn Grooms",
+        "startYear": 1891,
+        "endYear": 1895
+      },
+      {
+        "name": "Brooklyn Bridegrooms",
+        "startYear": 1896,
+        "endYear": 1898
+      },
+      {
+        "name": "Brooklyn Superbas",
+        "startYear": 1899,
+        "endYear": 1910
+      },
+      {
+        "name": "Brooklyn Trolley Dodgers",
+        "startYear": 1911,
+        "endYear": 1912
+      },
+      {
+        "name": "Brooklyn Dodgers",
+        "startYear": 1913,
+        "endYear": 1913
+      },
+      {
+        "name": "Brooklyn Robins",
+        "startYear": 1914,
+        "endYear": 1931
+      },
+      {
+        "name": "Brooklyn Dodgers",
+        "startYear": 1932,
+        "endYear": 1957
+      },
+      {
+        "name": "Los Angeles Ddogers",
+        "startYear": 1958,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "Interstate Association",
+        "id": "ISA",
+        "startYear": 1883,
+        "endYear": 1883
+      },
+      {
+        "name": "American Association",
+        "id": "AA",
+        "startYear": 1884,
+        "endYear": 1889
+      },
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1890,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-29",
+    "name": "San Diego Padres",
+    "foundedYear": 1969,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "San Diego Padres",
+        "startYear": 1969,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1969,
+        "endYear": null
+      }
+    ]
+  },
+  {
+    "id": "baseball-30",
+    "name": "Arizona Diamondbacks",
+    "foundedYear": 1998,
+    "foldedYear": null,
+    "formerNames": [
+      {
+        "name": "Arizona Diamondbacks",
+        "startYear": 1998,
+        "endYear": null
+      }
+    ],
+    "leagues": [
+      {
+        "name": "National League",
+        "id": "NL",
+        "startYear": 1998,
+        "endYear": null
+      }
+    ]
+  }
+]

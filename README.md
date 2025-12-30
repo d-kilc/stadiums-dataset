@@ -29,7 +29,7 @@
     roofType: "open" | "retractable" | "dome"
     image?: string
     wikipediaUrl?: string
-  },
+    era: "current" | "historic" | "future"
   geometry: {
     type: "Point",
     coordinates: [number, number]

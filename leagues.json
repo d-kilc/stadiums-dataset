@@ -1,0 +1,63 @@
+[
+  {
+    "id": "AL",
+    "name": "American League",
+    "longName": "American League of Professional Baseball Clubs",
+    "foundedYear": 1901,
+    "foldedYear": null,
+    "notes": "Renamed from the Western League and declared a major league on January 28, 1901."
+  },
+  {
+    "id": "NL",
+    "name": "National League",
+    "longName": "National League of Professional Baseball Clubs",
+    "foundedYear": 1876,
+    "foldedYear": null,
+    "notes": "Founded on February 2, 1876. The older of the two leagues which constitute current-day MLB."
+  },
+  {
+    "id": "WL",
+    "name": "Western League",
+    "longName": "Western League of Professional Baseball Clubs",
+    "foundedYear": 1885,
+    "foldedYear": 1901,
+    "notes": "Still a minor league, the Western League was renamed American League in 1899, and declared a major league in 1901."
+  },
+  {
+    "id": "NA",
+    "name": "National Association",
+    "longName": "National Association of Professional Base Ball Players",
+    "foundedYear": 1871,
+    "foldedYear": 1875,
+    "notes": "Founded in 1871 as the first professional baseball league. Play continued through 1875, when several clubs joined the National League following its founding in 1876."
+  },
+  {
+    "id": "AA",
+    "name": "American Association",
+    "longName": "American Association of Base Ball Clubs",
+    "foundedYear": 1882,
+    "foldedYear": 1891,
+    "notes": "Several clubs joined the National League following its dissolution in 1891."
+  },
+  {
+    "id": "ISA",
+    "name": "Interstate Baseball Association",
+    "foundedYear": 1883,
+    "foldedYear": 1883
+  },
+  {
+    "id": "FL",
+    "name": "Federal League",
+    "longName": "Federal League of Base Ball Clubs",
+    "foundedYear": 1913,
+    "foldedYear": 1915,
+    "notes": "Founded in 1913 as a minor league and operated professionally between 1914 and 1915."
+  },
+  {
+    "id": "NLB",
+    "name": "Negro leaagues",
+    "foundedYear": null,
+    "foldedYear": null,
+    "notes": "A collection of roughly seven professional leagues for Black players."
+  }
+]
